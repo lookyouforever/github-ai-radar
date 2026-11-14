@@ -1,0 +1,14 @@
+{
+  "topics": [
+    "artificial-intelligence", "generative-ai", "ai-agent", "ai-agents", "agentic-ai",
+    "coding-agent", "ai-coding", "llm", "large-language-model", "mcp",
+    "model-context-protocol", "rag", "machine-learning", "deep-learning",
+    "llm-inference", "local-llm", "ai-tools", "ai-assistant"
+  ],
+  "max_per_search": 100,
+  "min_stars_new": 5,
+  "min_stars_established": 200,
+  "snapshot_retention_days": 45,
+  "top_per_board": 50,
+  "report_archive_limit": 52
+}
